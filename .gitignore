@@ -25,3 +25,7 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# macOS system files
+.DS_Store
+**/.DS_Store
